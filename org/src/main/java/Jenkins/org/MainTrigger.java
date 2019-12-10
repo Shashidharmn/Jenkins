@@ -16,7 +16,7 @@ public class MainTrigger {
 			
 			driver.get("http://demo.guru99.com/test/guru99home/");  
 			String title = driver.getTitle();				 
-			Assert.assertTrue(title.contains("Demo Guru99 Page")); 		
+			Assert.assertTrue(title.contains(",jvhxc,bvDemo Guru99 Page")); 		
 		}	
 		@BeforeTest
 		public void beforeTest() {	

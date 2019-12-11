@@ -14,8 +14,8 @@ public class MainTrigger {
 		@Test				
 		public void testEasy() {	
 			
-			driver.get("http://demo.guru99.com/test/guru99home/");  
-			String title = driver.getTitle();				 
+		//	driver.get("http://demo.guru99.com/test/guru99home/");  
+		//	String title = driver.getTitle();				 
 			//Assert.assertTrue(title.contains(",jvhxc,bvDemo Guru99 Page")); 		
 		}	
 		@BeforeTest

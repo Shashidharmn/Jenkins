@@ -16,7 +16,7 @@ public class MainTrigger {
 			
 		//	driver.get("http://demo.guru99.com/test/guru99home/");  
 		//	String title = driver.getTitle();				 
-			Assert.assertTrue(false); 		
+			Assert.assertTrue(false); 	
 		}	
 		@BeforeTest
 		public void beforeTest() {	
